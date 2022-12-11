@@ -1,0 +1,12 @@
+theme: jekyll-theme-hacker
+title: Мои заметки
+description: Заметки о книгах, которые я читаю
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-coffeescript
+  - jekyll-github-metadata
+  
+relative_links:
+  enabled: true
+  collections: false
